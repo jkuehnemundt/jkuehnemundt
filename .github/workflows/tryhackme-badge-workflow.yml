@@ -23,5 +23,5 @@ jobs:
       with:
         image_path: './assets/tryhackme-badge.png'
         username: '1ntrusvsVatic4n1.0x7'
-        user_id: '6184f1ae9b1ec00042682c4a'
+        user_id: '736841'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
